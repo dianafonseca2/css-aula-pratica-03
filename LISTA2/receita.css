@@ -1,0 +1,28 @@
+img {
+     height: 400px;
+     border-radius: 5px;
+}
+
+h1 {
+    text-transform: uppercase; color: purple;
+}
+
+p {
+    font-style: italic;
+}
+
+span {
+    background-color: plum;
+    font-weight: bold;
+}
+
+.button {
+    background-color: #1877f2;
+    border-radius: 2px; 
+    border-color: #1877f2;
+    color: white;
+}
+
+textarea {
+    resize: none;
+}
